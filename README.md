@@ -75,6 +75,13 @@ GET https://economia.awesomeapi.com.br/last/EUR-BRL
 
 ---
 
+## 🌐 Demo ao Vivo
+
+👉 [Aceder ao Dashboard](https://etl-cotacao-euro.streamlit.app/)
+
+---
+
+
 ## 👤 Autor
 
 Feito por **Guilherme Astolfi**  
